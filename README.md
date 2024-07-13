@@ -11,6 +11,8 @@ A simple Wi-Fi menu script that uses [rofi](https://github.com/davatorium/rofi) 
 - Connect to any Wi-Fi from their SSID with either their saved password or prompt for password
 - Notify the success or failure message
 
+![demo](previews/menu-in-action.gif)
+
 ### Installation
 
 Install [rofi](https://github.com/davatorium/rofi) [nmcli](https://gitlab.freedesktop.org/NetworkManager/NetworkManager) and [dunst](https://github.com/dunst-project/dunst) using either your package manager or clone the repo and install accordingly and set any [Nerd Font](https://www.nerdfonts.com/font-downloads) in your Rofi config to be able to use all the icons. Then run these commands.
